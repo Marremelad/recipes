@@ -1,0 +1,1 @@
+To exit the section in "Add recipe" that lets you add ingredients, press ctrl + z followed by enter.
